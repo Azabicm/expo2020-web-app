@@ -1,0 +1,6 @@
+##########################Git Hub ###########################
+1. initial git repostory                git init
+2. add code into git                   git add .
+3. commit code                          git commit -m "some message"
+4.push code on server               git push -u origin  master
+5.check status of git                git status
