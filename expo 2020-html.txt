@@ -1,0 +1,21 @@
+<html>
+<head>
+         <title> EXPO 2020 </title>
+</head>
+<body>
+<body bgcolor="yellow" text="blue">
+<h1 align="center"> Remagine The Future </h1>
+<body topmargin="50">
+<body leftmargin="50">
+<h2 align="left"> India pavilion </h2>
+<p>Building on India’s culture, <br> heritage and technologies, <br> including its space programme,<br> the Pavilion will reflect <br> ‘new India’ and show the strengths<br> of its human resources and <br>youth’s aspirations.
+<h3 align="center">Uae pavilion</h3>
+<p align="center"> Shaped like a falcon in flight, <br> the pavilion tells the story of the UAE as a global hub,<br> and the vision of its leaders to<br> create a peaceful and progressive <br>society with ambitious plans for<br> the future.
+<h4 align="right"> Netherlands pavilion </h4>
+<p align="right">Enter a miniature world with its own climate system.<br> Brimming with sustainable solutions, <BR>the pavilion will harvest water, <br>energy and food through innovations<br> including a cone-shaped vertical farm.
+</body>
+</html>
+
+
+
+
